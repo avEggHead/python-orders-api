@@ -1,0 +1,6 @@
+/venv
+/__pycache__
+app/__pycache__/datastore.cpython-310.pyc
+app/__pycache__/main.cpython-310.pyc
+app/__pycache__/models.cpython-310.pyc
+app/__pycache__/service.cpython-310.pyc
